@@ -4,3 +4,4 @@ api/build
 api/coverage
 api/logs
 api/temp
+api/.env
