@@ -1,5 +1,11 @@
 # Sistema SOA para Análise de Tendência de Nomes no Brasil
 
+# Alunos
+
+- Alison Luiz da Silva - RA: 22033281-2
+- Andre Fragalli Vassoler - RA: 22012716-2
+- Vagner Rodrigues Calado Junior - RA: 22014296-2
+
 ## 📋 Descrição
 
 Este projeto implementa um sistema orientado a serviços (SOA) que consome a API de nomes do IBGE para fornecer análises de tendências de nomes próprios no Brasil ao longo das décadas.
