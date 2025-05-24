@@ -5,3 +5,10 @@ api/coverage
 api/logs
 api/temp
 api/.env
+
+web/node_modules
+web/dist
+web/build
+web/coverage
+web/logs
+web/temp

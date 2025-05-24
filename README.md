@@ -48,7 +48,27 @@ Este projeto implementa um sistema orientado a serviços (SOA) que consome a API
 
 ## 🚀 Tecnologias Utilizadas
 
-- Frontend:
+- Frontend: ReactJS
 - Backend: NestJS
-- Bibliotecas de Visualização:
+- Bibliotecas de Visualização: chart.js
 - API: IBGE Nomes
+
+## 🛠️ Como Executar o Projeto
+
+### Backend (API)
+
+```bash
+cd api
+yarn install
+yarn start:dev
+```
+
+### Frontend (Web)
+
+```bash
+cd web
+npm install
+npm start
+```
+
+## 📸 Imagens do Projeto
